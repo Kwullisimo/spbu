@@ -6,7 +6,13 @@
 int main(int argc, char* argv)
 {
     int h, a, b;
+    
     scanf("%d %d %d", &h, &a, &b);
-    printf("%d", (h-b-1)/(a-b) + 1); 
+
+    if (h > a)
+        printf("%d", (h-b-1)/(a-b) + 1);
+    else
+        printf("1");
+    
     return 0;
 } 
