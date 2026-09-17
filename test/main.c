@@ -2,6 +2,9 @@
 
 int main(void)
 {
-    printf("Hello, world!");
+    char name[50];
+    printf("name of ueban - ");
+    scanf("%s", &name);
+    printf("Hello, %s!", name);
     return 0;
 }
