@@ -1,10 +1,11 @@
 #include <stdio.h>
 
-int main(void)
+// ebanoe rounding up a/b = (a+b-1)/b
+
+int main(int argc, char* argv)
 {
-    char name[50];
-    printf("name of ueban - ");
-    scanf("%s", &name);
-    printf("Hello, %s!", name);
+    int h, a, b;
+    scanf("%d %d %d", &h, &a, &b);
+    printf("%d", (h-b-1)/(a-b) + 1);
     return 0;
-}
+} 
