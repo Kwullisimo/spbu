@@ -1,0 +1,13 @@
+# VS Code
+.vscode/
+
+# Скомпилированные файлы
+*.exe
+*.out
+*.o
+
+# Временные файлы
+*.tmp
+
+# macOS
+.DS_Store
