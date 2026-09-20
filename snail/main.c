@@ -9,10 +9,7 @@ int main(int argc, char* argv)
     
     scanf("%d %d %d", &h, &a, &b);
 
-    if (h > a)
-        printf("%d", (h-b-1)/(a-b) + 1);
-    else
-        printf("1");
+    printf("%d", (h>a) * (h-b-1)/(a-b) + 1);
     
     return 0;
 } 
