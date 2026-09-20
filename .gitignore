@@ -4,4 +4,4 @@
 # Compiled files
 *.exe
 
-test/
+/test
