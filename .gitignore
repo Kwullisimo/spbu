@@ -4,4 +4,6 @@
 # Compiled files
 *.exe
 
+# another folders
 test
+snail
