@@ -1,6 +1,9 @@
-![spbu](https://i.pinimg.com/1200x/d1/39/97/d139974beb04f28718eb7f51ce36a6ed.jpg)
+![alt text](image.png)
+
+---
 
 # 📚 Homeworks
+
 |  № |    Date    |            Name             | Status |
 |:--:|:----------:|:---------------------------:|:------:|
 | 01 | 2026.09.03 |           hello             |   ✅   |
