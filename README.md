@@ -1,13 +1,16 @@
 # 📚 Homeworks
 
 |  № |    Date    |    Name     | Status |  
-|----|------------|-------------|:-||-|-----:|
-| 01 | 2026.09.03 |    hello    | 'DONE' |
-| 02 | 2026.09.11 |     pi      |   ✅  |
-| 03 | 2026.09.18 |    acmp     |   ✅ |
+|----|------------|-------------|--------|  
+| 01 | 2026.09.03 |    hello    | - [ ] TODO |  
+| 02 | 2026.09.11 |     pi      | [X] DONE |  
+| 03 | 2026.09.18 |    [acmp](acmp.ru "пошёл нахуй")     | ✅ |  
 
 ### Statuses
 
-- ✅ — completed
-- ⏳ — in progress
-- ❌ — not started
+- [ ] TODO
+- [x] DONE
+- 'WIP'
+- 'DONE' — completed
+- 'WIP' — in progress
+- 'TODO' — not started
