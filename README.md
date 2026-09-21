@@ -1,6 +1,13 @@
 ![alt text](image.png)
 
 ---
+# ℹ️ Info
+
+A repository containing the course's standard assignments.
+
+Each folder contains a specific homework assignment and the corresponding task description.
+
+---
 
 # 📚 Homeworks
 
