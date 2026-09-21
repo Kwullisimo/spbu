@@ -4,6 +4,9 @@
 # Compiled files
 *.exe
 
-# another folders
+# Images for markdown
+*.png
+
+# Another folders
 test
 snail
