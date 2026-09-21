@@ -1,17 +1,16 @@
-![alt text](image-5.png)
+
+![spbu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFWrMizYvCo3sFFfZe6DieGEfIYZ23Y2EyauckCBccIYJzO49rlM1M8Ys&s=10)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFWrMizYvCo3sFFfZe6DieGEfIYZ23Y2EyauckCBccIYJzO49rlM1M8Ys&s=10" alt="spbu" width="250">
+---
+
 # 📚 Homeworks
-|  № |    Date    |Name| Status |  
-|----|------------|-------------|--------|  
-| 01 | 2026.09.03 |    hello    | - [ ] TODO |  
-| 02 | 2026.09.11 |     pi      | [X] DONE |  
-| 03 | 2026.09.18 |[acmp](https://acmp.ru/ "poshel nahui")| ✅ |  
+|  № |    Date    |  Name | Status |
+|:--:|:----------:|:-----:|:------:|
+| 01 | 2026.09.03 | Hello |   ✅   |
+| 02 | 2026.09.11 |   Pi  |   ✅   |
+| 03 | 2026.09.18 |  acmp |   ✅   |
+| 03 | 2026.09.18 |  acmp |   ✅   |
+---
 
 ### Statuses
-![alt text](image-4.png)
-![alt text](image.png "мемчик")
-- [ ] TODO
-- [x] DONE
-- 'WIP'
-- 'DONE' — completed
-- 'WIP' — in progress
-- 'TODO' — not started
