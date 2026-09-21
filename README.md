@@ -1,6 +1,6 @@
 # 📚 Homeworks
 
-|  № |    Date    |    Name     | Status |
+|  № |    Date    |    Name     | Status |\n
 |----|------------|-------------|:-||-|-----:|
 | 01 | 2026.09.03 |    hello    | 'DONE' |
 | 02 | 2026.09.11 |     pi      |   ✅  |
