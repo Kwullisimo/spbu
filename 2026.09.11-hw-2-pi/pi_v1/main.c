@@ -1,6 +1,10 @@
 #include <assert.h>
 #include <stdio.h>
 
+// ================================
+// SOLUTION FROM CODEX ASTRA 6 ULRA
+// ================================
+
 /*
  * Pi from two converging means: the Gauss-Legendre (Brent-Salamin) algorithm.
  * No floating point, external libraries, or hard-coded digits of pi.

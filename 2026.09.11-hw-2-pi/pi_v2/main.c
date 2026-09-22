@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+// =======================
+// ENCRYPT TO ASCII -> XOR
+// =======================
+
 int main(void)
 {
     unsigned char pi[] = {

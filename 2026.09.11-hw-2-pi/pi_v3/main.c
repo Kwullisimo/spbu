@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+// =============
+// TAYLOR SERIES
+// ============= 
+
 int main() {
     double x = 1.0 / 5.0;
     double y = 1.0 / 239.0;
