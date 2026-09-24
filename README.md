@@ -5,7 +5,7 @@
 
 A repository containing the course's standard assignments.
 
-Each folder contains a specific homework assignment and the corresponding task description.
+Each folder contains a specific homework assignment.
 
 ---
 
