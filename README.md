@@ -11,11 +11,11 @@ Each folder contains a specific homework assignment.
 
 # 📚 Homeworks
 
-|  № |    Date    |            Name             | Status |
-|:--:|:----------:|:---------------------------:|:------:|
-| 01 | 2026.09.03 |           hello             |   ✅   |
-| 02 | 2026.09.11 |             pi              |   ✅   |
-| 03 | 2026.09.18 |   [acmp](https://acmp.ru/ "Школа программиста")  |   ✅   |
+|  № |    Date    |            Name             | Status | Link |
+|:--:|:----------:|:---------------------------:|:------:|:----:|
+| 01 | 2026.09.03 |           hello             |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.03-hw-1-hello) |
+| 02 | 2026.09.11 |             pi              |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.11-hw-2-pi) |
+| 03 | 2026.09.18 |   [acmp](https://acmp.ru/ "Школа программиста")  |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp) |
 
 ---
 
