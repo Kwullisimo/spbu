@@ -12,16 +12,16 @@ In this folder containing solution 10 tasks  from [acmp](https://acmp.ru/).
 
 |   №  | Satus | Link | 
 |:----:|:-----:|:----:|
-|   [1](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=142)  | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/1)   |
-|  [108](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=143) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/108) |
-|  [195](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=145) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/195) |
-|  [773](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=28&id_problem=149) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/773) |
-|  [903](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=144) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/903) |
-| [1109](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=152) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/1109)|
-| [1112](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=27&id_problem=155) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/1112)|
-| [1114](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=27&id_problem=157) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/1114)|
-| [1115](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=27&id_problem=158) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/1115)|
-| [1116](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=28&id_problem=159) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/1116)|
+|   [1](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=142)  | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/1/main.c)   |
+|  [108](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=143) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/108/main.c) |
+|  [195](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=145) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/195/main.c) |
+|  [773](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=28&id_problem=149) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/773/main.c) |
+|  [903](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=144) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/903/main.c) |
+| [1109](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=152) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/1109/main.c)|
+| [1112](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=27&id_problem=155) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/1112/main.c)|
+| [1114](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=27&id_problem=157) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/1114/main.c)|
+| [1115](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=27&id_problem=158) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/1115/main.c)|
+| [1116](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=28&id_problem=159) | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp/1116/main.c)|
 
 ---
 
