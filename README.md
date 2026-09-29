@@ -1,4 +1,4 @@
-![alt text](https://github.com/user-attachments/assets/34e5c3bc-196a-4936-b733-c88c7209d3f5)
+![alt text](https://github.com/user-attachments/assets/2973f9bd-33e3-433a-9657-f30b843649cc)
 
 ---
 # ℹ️ Info
