@@ -17,6 +17,8 @@ Each folder contains a specific homework assignment and the corresponding descri
 | 02 | 2026.09.11 |             pi              |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.11-hw-2-pi) |
 | 03 | 2026.09.18 |   [acmp](https://acmp.ru/ "Школа программиста")  |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp) |
 | 04 | 2026.09.25 |   [acmp](https://acmp.ru/ "Школа программиста")  |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.25-hw-4-acmp) |
+| 05 | 2026.10.02 |   cycles  | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.02-hw-5-cycles) |
+| 06 | 2026.10.10 |   preparation to test  | ⏳ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.10-hw-6-preparation) |
 ---
 
 ### 💡 Statuses
