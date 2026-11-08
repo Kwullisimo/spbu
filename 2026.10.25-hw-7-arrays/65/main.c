@@ -1,16 +1,17 @@
 #include <stdio.h>
 
+#define N 10000
+
 int main(void)
 {
     int n = 0;
+    int arr[N];
+
     scanf("%d", &n);
 
-    int arr[n];
 
     for(int i = 0; i < n; ++i) {
-        int a = 0;
-        scanf("%d", &a);
-        arr[i] = a;
+        scanf("%d", &arr[i]);
     }
 
     int count = 0;

@@ -1,23 +1,25 @@
 #include <stdio.h>
 
+#define N 10000
+
 int main(void)
 {
-    int n, A, B, C, D;
-    scanf("%d %d %d %d %d", &n, &A, &B, &C, &D);
+    int n, a, b, c, d;
+    int arr[N];
 
-    int arr[n];
+    scanf("%d %d %d %d %d", &n, &a, &b, &c, &d);
 
     for (int i = 0; i < n; ++i) {
         arr[i] = i + 1;
     }
 
-    for (int i = A - 1, j = B - 1; i < j; ++i, --j) {
+    for (int i = a - 1, j = b - 1; i < j; ++i, --j) {
         int temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;
     }
 
-    for (int i = C - 1, j = D - 1; i < j; ++i, --j) {
+    for (int i = c - 1, j = d - 1; i < j; ++i, --j) {
         int temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;

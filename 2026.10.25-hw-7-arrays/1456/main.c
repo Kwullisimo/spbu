@@ -1,11 +1,13 @@
 #include <stdio.h>
 
+#define N 10000
+
 int main(void)
 {
     int n = 0;
-    scanf("%d", &n);
+    int arr[N];
 
-    int arr[n];
+    scanf("%d", &n);
 
     for(int i = 0; i < n; ++i) {
         scanf("%d", &arr[i]);
@@ -14,10 +16,10 @@ int main(void)
     int h = 0;
     scanf("%d", &h);
 
-    int answ = 0;
+    int answ = 1;
 
     for (int i = 0; i < n; ++i) {
-        if (arr[i] > h) {answ = i + 2;}
+        if (arr[i] >= h) {answ = i + 2;}
     }
 
     printf("%d", answ);
