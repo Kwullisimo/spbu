@@ -19,7 +19,7 @@ Each folder contains a specific homework assignment and the corresponding descri
 | 04 | 2026.09.25 |   [acmp](https://acmp.ru/ "Школа программиста")  |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.25-hw-4-acmp) |
 | 05 | 2026.10.02 |   cycles  | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.02-hw-5-cycles) |
 | 06 | 2026.10.10 |   preparation to test  | ⏳ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.10-hw-6-preparation) |
-| 07 | 2026.10.25 |   arrays  | ⏳ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.25-hw-7-arrays) |
+| 07 | 2026.10.25 |   arrays  | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.25-hw-7-arrays) |
 ---
 
 ### 💡 Statuses
