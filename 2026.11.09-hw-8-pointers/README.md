@@ -12,7 +12,7 @@ In this folder containing method of create dynamic array + output sum of all ele
 
 |  №  |             Task             | Satus |                                        Link                                        |
 | :-: | :--------------------------: | :---: | :--------------------------------------------------------------------------------: |
-|  1  | Dynamic array + sum elements |  ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.09-hw-8-pointers/main.c) |
+|  1  | Dynamic array + sum elements |  ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.09-hw-8-pointers/dynamic-array/main.c) |
 
 ---
 
