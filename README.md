@@ -1,6 +1,7 @@
 ![alt text](https://github.com/user-attachments/assets/2973f9bd-33e3-433a-9657-f30b843649cc)
 
 ---
+
 # ℹ️ Info
 
 A repository containing the course's standard assignments.
@@ -11,16 +12,17 @@ Each folder contains a specific homework assignment and the corresponding descri
 
 # 📚 Homeworks
 
-|  № |    Date    |            Name             | Status | Link |
-|:--:|:----------:|:---------------------------:|:------:|:----:|
-| 01 | 2026.09.03 |           hello             |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.03-hw-1-hello) |
-| 02 | 2026.09.11 |             pi              |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.11-hw-2-pi) |
-| 03 | 2026.09.18 |   [acmp](https://acmp.ru/ "Школа программиста")  |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp) |
-| 04 | 2026.09.25 |   [acmp](https://acmp.ru/ "Школа программиста")  |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.25-hw-4-acmp) |
-| 05 | 2026.10.02 |   cycles  | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.02-hw-5-cycles) |
-| 06 | 2026.10.10 |   preparation to test  | ⏳ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.10-hw-6-preparation) |
-| 07 | 2026.10.25 |   arrays  | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.25-hw-7-arrays) |
-| 08 | 2026.11.09 |   pointers  | ✅ | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.09-hw-8-pointers) |
+|  №  |    Date    |                     Name                      | Status |                                       Link                                        |
+| :-: | :--------: | :-------------------------------------------: | :----: | :-------------------------------------------------------------------------------: |
+| 01  | 2026.09.03 |                     hello                     |   ✅   |     [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.03-hw-1-hello)      |
+| 02  | 2026.09.11 |                      pi                       |   ✅   |       [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.11-hw-2-pi)       |
+| 03  | 2026.09.18 | [acmp](https://acmp.ru/ 'Школа программиста') |   ✅   |      [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.18-hw-3-acmp)      |
+| 04  | 2026.09.25 | [acmp](https://acmp.ru/ 'Школа программиста') |   ✅   |      [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.25-hw-4-acmp)      |
+| 05  | 2026.10.02 |                    cycles                     |   ✅   |     [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.02-hw-5-cycles)     |
+| 06  | 2026.10.10 |              preparation to test              |   ⏳   |  [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.10-hw-6-preparation)   |
+| 07  | 2026.10.25 |                 static arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.25-hw-7-static-arrays)  |
+| 08  | 2026.11.09 |                dynamic arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.09-hw-8-dynamic-arrays) |
+| 09  | 2026.11.09 |                dynamic arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.16-hw-9-dynamic-arrays) |
 
 ---
 
@@ -29,7 +31,7 @@ Each folder contains a specific homework assignment and the corresponding descri
 - ✅ - Completed
 - ⏳ - In progress
 - ❌ - Not started
-  
+
 ---
 
 ![meme](https://i.pinimg.com/736x/d2/32/64/d23264be7bf73a1059f9aa2ab7b62aa4.jpg)
