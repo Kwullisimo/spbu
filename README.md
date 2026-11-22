@@ -20,9 +20,9 @@ Each folder contains a specific homework assignment and the corresponding descri
 | 04  | 2026.09.25 | [acmp](https://acmp.ru/ 'Школа программиста') |   ✅   |      [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.25-hw-4-acmp)      |
 | 05  | 2026.10.02 |                    cycles                     |   ✅   |     [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.02-hw-5-cycles)     |
 | 06  | 2026.10.10 |              preparation to test              |   ⏳   |  [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.10-hw-6-preparation)   |
-| 07  | 2026.10.25 |                 static arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.25-hw-7-static-arrays)  |
-| 08  | 2026.11.09 |                dynamic arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.09-hw-8-dynamic-arrays) |
-| 09  | 2026.11.09 |                dynamic arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.16-hw-9-dynamic-arrays) |
+| 07  | 2026.10.25 |                 static arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.25-hw-7-static_arrays)  |
+| 08  | 2026.11.09 |                dynamic arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.09-hw-8-dynamic_arrays) |
+| 09  | 2026.11.09 |                dynamic arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.16-hw-9-dynamic_arrays) |
 
 ---
 
