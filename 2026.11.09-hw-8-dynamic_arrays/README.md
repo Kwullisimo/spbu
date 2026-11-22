@@ -6,10 +6,10 @@ Two C programs that use dynamically allocated arrays. One sums the elements, and
 
 ## 📚 Tasks
 
-| No. |               Task                | Status |                                                               Source                                                               |
-| :-: | :-------------------------------: | :----: | :--------------------------------------------------------------------------------------------------------------------------------: |
-|  1  |      Sum the array elements       |   ✅   |               [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.09-hw-8-dynamic_arrays/dynamic-array/main.c)               |
-|  2  | Rotate the array by `k` positions |   ✅   | [🔗](<[./dynamic-shift/main.c](https://github.com/Kwullisimo/spbu/tree/main/2026.11.09-hw-8-dynamic_arrays/dynamic-shift/main.c)>) |
+| No. |               Task                | Status |                                                 Source                                                 |
+| :-: | :-------------------------------: | :----: | :----------------------------------------------------------------------------------------------------: |
+|  1  |      Sum the array elements       |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.09-hw-8-dynamic_arrays/dynamic-array/main.c) |
+|  2  | Rotate the array by `k` positions |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.09-hw-8-dynamic_arrays/dynamic-shift/main.c) |
 
 ✅ Completed · ⏳ In progress · ❌ Not started
 
