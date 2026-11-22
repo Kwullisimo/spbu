@@ -8,7 +8,7 @@ The program reads a positive integer `n`, fills an `n × n` matrix with numbers 
 
 | No. |     Task      | Status |                                                 Source                                                 |
 | :-: | :-----------: | :----: | :----------------------------------------------------------------------------------------------------: |
-|  1  | Spiral matrix |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.16-hw-9-dynamic-arrays/spiral-matrix/main.c) |
+|  1  | Spiral matrix |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/blob/main/2026.11.16-hw-9-dynamic_arrays/spiral-matrix/main.c) |
 
 ✅ Completed · ⏳ In progress · ❌ Not started
 
