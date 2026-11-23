@@ -11,10 +11,6 @@ Each folder contains a specific homework assignment and the corresponding descri
 ---
 # 📚 Homeworks
 
-✅ Completed · ⏳ In progress · ❌ Not started
-
----
-
 |  №  |    Date    |                     Name                      | Status |                                       Link                                        |
 | :-: | :--------: | :-------------------------------------------: | :----: | :-------------------------------------------------------------------------------: |
 | 01  | 2026.09.03 |                     hello                     |   ✅   |     [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.03-hw-1-hello)      |
@@ -26,6 +22,10 @@ Each folder contains a specific homework assignment and the corresponding descri
 | 07  | 2026.10.25 |                 static arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.10.25-hw-7-static_arrays)  |
 | 08  | 2026.11.09 |                dynamic arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.09-hw-8-dynamic_arrays) |
 | 09  | 2026.11.09 |                dynamic arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.16-hw-9-dynamic_arrays) |
+
+---
+
+✅ Completed · ⏳ In progress · ❌ Not started
 
 ---
 
