@@ -13,6 +13,8 @@ Each folder contains a specific homework assignment and the corresponding descri
 
 ✅ Completed · ⏳ In progress · ❌ Not started
 
+---
+
 |  №  |    Date    |                     Name                      | Status |                                       Link                                        |
 | :-: | :--------: | :-------------------------------------------: | :----: | :-------------------------------------------------------------------------------: |
 | 01  | 2026.09.03 |                     hello                     |   ✅   |     [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.09.03-hw-1-hello)      |
