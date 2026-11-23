@@ -13,7 +13,7 @@ Each folder contains a specific homework assignment and the corresponding descri
 
 # 📚 Homeworks
 
-<table align="left" width="70%">
+<table align="left" width="50%">
   <tr>
     <th>№</th>
     <th>Date</th>
