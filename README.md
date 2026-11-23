@@ -86,7 +86,7 @@ Each folder contains a specific homework assignment and the corresponding descri
   </tr>
 </table>
 
-<div align="center">
+<div align="left">
   <h3>💡 Statuses</h3>
   <p>✅ - Completed</p>
   <p>⏳ - In progress</p>
