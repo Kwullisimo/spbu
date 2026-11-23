@@ -9,11 +9,6 @@ A repository containing the course's standard assignments.
 Each folder contains a specific homework assignment and the corresponding description.
 
 ---
-
-<table>
-  <tr>
-    <td valign="top">
-
 # 📚 Homeworks
 
 |  №  |    Date    |                     Name                      | Status |                                       Link                                        |
@@ -28,20 +23,7 @@ Each folder contains a specific homework assignment and the corresponding descri
 | 08  | 2026.11.09 |                dynamic arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.09-hw-8-dynamic_arrays) |
 | 09  | 2026.11.09 |                dynamic arrays                 |   ✅   | [🔗](https://github.com/Kwullisimo/spbu/tree/main/2026.11.16-hw-9-dynamic_arrays) |
 
-  </td>
-  <td valign="top">
-
-### 💡 Statuses
-
-✅ - Completed
-
-⏳ - In progress
-
-❌ - Not started
-
-  </td>
-  </tr>
-</table>
+✅ Completed · ⏳ In progress · ❌ Not started
 
 ---
 
