@@ -13,7 +13,7 @@ Each folder contains a specific homework assignment and the corresponding descri
 
 # 📚 Homeworks
 
-<table align="left">
+<table align="left" width="70%">
   <tr>
     <th>№</th>
     <th>Date</th>
@@ -86,11 +86,11 @@ Each folder contains a specific homework assignment and the corresponding descri
   </tr>
 </table>
 
-<div align="left">
-  <h3> 💡 Statuses</h3>
-  <p> ✅ - Completed</p>
-  <p> ⏳ - In progress</p>
-  <p> ❌ - Not started</p>
+<div align="right">
+  <h3>💡 Statuses</h3>
+  <p>✅ - Completed</p>
+  <p>⏳ - In progress</p>
+  <p>❌ - Not started</p>
 </div>
 
 <br clear="all">
